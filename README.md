@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sachiko Tajima. I'm university student studying computer science.
+I'm Sachiko Tajima. 
 I'm interested in web frontend and design.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=schktjm)](https://github.com/anuraghazra/github-readme-stats)
